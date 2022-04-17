@@ -6,18 +6,18 @@ Explain the purpose of this analysis.
 Using bulleted lists and images of DataFrames as support, address the following questions:
 How many Vine reviews and non-Vine reviews were there?
 Paid Vine Reviews: 94
-![Paid_vine] (https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/paid_vine_df.PNG)
+![Pic](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/paid_vine_df.PNG)
 Unpaid Vine Reviews: 40,471
-![Unpaid_vine] (https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_vine_df.PNG)
+![Pic2](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_vine_df.PNG)
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 5 Star Vine Reviews: 48
-![5_Star_Vine_Reviews] (https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/vine_star_5_df.PNG)
+![Pic3](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/vine_star_5_df.PNG)
 5 Star Unpaid Vine Reviews: 
-![5_Star_Unpaid_Vine_Reviews] (https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_vine_not_star_5_df.PNG)
+![Pic4](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_vine_not_star_5_df.PNG)
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
+!
 
 
 ## Summary: 
