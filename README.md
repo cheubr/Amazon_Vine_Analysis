@@ -1,10 +1,8 @@
 # Amazon_Vine_Analysis
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
+The purpose of the analysis was to determine if ther is any bias towards favorable reviews from vine members in the datasets.
 
 ## Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions:
-
 ### How many Vine reviews and non-Vine reviews were there?
 * Paid Vine Reviews: 94
 ![Pic](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/paid_vine_df.PNG)
@@ -14,7 +12,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 * 5 Star Vine Reviews: 48
 ![Pic3](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/vine_star_5_df.PNG)
-* 5 Star Unpaid Vine Reviews: 
+* 5 Star Unpaid Vine Reviews: 24,808
 ![Pic4](https://github.com/cheubr/Amazon_Vine_Analysis/blob/main/Resources/unpaid_vine_not_star_5_df.PNG)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
@@ -24,4 +22,4 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 
 ## Summary: 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with it 
+There deffinately seems to be a bias between vine members and non-vine members.
